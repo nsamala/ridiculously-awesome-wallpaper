@@ -13,6 +13,6 @@
   "author": "nish",
   "preferGlobal": true,
   "bin": {
-    "ridiculously-awesome-wallpaper": "./bin/index.js"
+    "ridiculously-awesome-wallpaper": "./index.js"
   }
 }
