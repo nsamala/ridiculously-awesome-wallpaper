@@ -6,10 +6,10 @@ Downloads a set of images from an Kinja RSS feed. Could be used for rotating bac
 * Yarn (optional)
 
 ## Installation (from NPM)
-npm install -g ridiculously-awesome-wallpaper
+`npm install -g ridiculously-awesome-wallpaper`
 
 ## Installation (locally)
-npm install -g .
+`npm install -g .`
 
 ## Usage
 For Jalopnik's Weekend Wallpaper,
