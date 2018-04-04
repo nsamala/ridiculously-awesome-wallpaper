@@ -1,6 +1,6 @@
 {
   "name": "ridiculously-awesome-wallpaper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Kinja Wallpaper Downloader",
   "main": "lib/index.js",
   "license": "MIT",
