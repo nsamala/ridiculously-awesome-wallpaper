@@ -2,17 +2,18 @@
   "name": "ridiculously-awesome-wallpaper",
   "version": "0.1.0",
   "description": "Kinja Wallpaper Downloader",
-  "main": "index.js",
+  "main": "lib/index.js",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "image-downloader": "^3.3.0",
     "minimist": "^1.2.0",
-    "rss-parser": "^3.1.2"
+    "rss-parser": "^3.1.2",
+    "valid-url": "^1.0.9"
   },
-  "author": "nish",
+  "author": "nsamala",
   "preferGlobal": true,
   "bin": {
-    "ridiculously-awesome-wallpaper": "./index.js"
+    "ridiculously-awesome-wallpaper": "./bin/ridiculously-awesome-wallpaper.js"
   }
 }
