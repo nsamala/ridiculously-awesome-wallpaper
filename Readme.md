@@ -9,7 +9,7 @@ Downloads a set of images from an Kinja RSS feed. Could be used for rotating bac
 npm install -g ridiculously-awesome-wallpaper
 
 ## Installation (locally)
-npm install -g <local path to this clone repository>
+npm install -g .
 
 ## Usage
 For Jalopnik's Weekend Wallpaper,
