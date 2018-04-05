@@ -2,14 +2,17 @@
 Downloads a set of images from an Kinja RSS feed. Could be used for rotating backgrounds on your computer
 
 ## Pre-requisites
-* Node.js
-* Yarn (optional)
+* [Node.js](https://nodejs.org/en/)
 
 ## Installation (from NPM)
 `npm install -g ridiculously-awesome-wallpaper`
 
 ## Installation (locally)
-`npm install -g .`
+Clone this repository and install it from the local folder
+```
+git clone https://github.com/nsamala/ridiculously-awesome-wallpaper
+npm install -g ./ridiculously-awesome-wallpaper
+```
 
 ## Usage
 For Jalopnik's Weekend Wallpaper,
